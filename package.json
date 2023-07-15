@@ -1,0 +1,21 @@
+{
+  "name": "three-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel buid src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "ammo.js": "^0.0.10",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.4",
+    "parcel-bundler": "^1.12.5",
+    "three": "^0.148.0",
+    "tween.js": "^16.6.0"
+  }
+}
